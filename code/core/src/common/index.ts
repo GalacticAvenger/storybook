@@ -47,6 +47,7 @@ export * from '../shared/utils/module';
 export * from './utils/get-addon-names';
 export * from './utils/utils';
 export * from './utils/command';
+export * from './node-version';
 
 export { versions };
 
