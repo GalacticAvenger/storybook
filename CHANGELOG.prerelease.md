@@ -1,3 +1,8 @@
+## 10.4.0-alpha.8
+
+- A11y: Add aria-live announcements via @react-aria/live-announcer - [#33970](https://github.com/storybookjs/storybook/pull/33970), thanks @copilot-swe-agent!
+- Core: Implement Git change detection - [#34420](https://github.com/storybookjs/storybook/pull/34420), thanks @ghengeveld!
+
 ## 10.4.0-alpha.7
 
 - CLI: Explicitly tell whether smoke tests passed or failed - [#34419](https://github.com/storybookjs/storybook/pull/34419), thanks @Sidnioulz!
